@@ -1,3 +1,4 @@
 *.vscode
 *.cph
 *Hello.cpp
+*.bin
